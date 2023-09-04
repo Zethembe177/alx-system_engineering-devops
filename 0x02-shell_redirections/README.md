@@ -1,0 +1,1 @@
+the first script intructs a scriptd that outputs hello world.
