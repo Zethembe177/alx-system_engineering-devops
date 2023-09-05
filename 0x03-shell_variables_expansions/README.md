@@ -1,0 +1,1 @@
+this script shows how to expand in the command line.
